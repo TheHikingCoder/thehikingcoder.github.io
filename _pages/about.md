@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student in the University of Houston's class of 2023 pursuing a double major in Computer Science and Mathematics with a minor in Chemistry. I have been studying computer science since my sophomore year in high school, and am extremely comfortable coding in C++, Python, and Java. When I'm not in class, I work on developing machine learning algorithms for facial detection and StarCraft II. I am also currently working on developing a remote grading server for a MATLAB course that will be capable of grading 300+ concurrent submissions, generating detailed reports, and be user-friendly for freshman students who are not familiar with programming.
+I am a student in the University of Houston's class of 2023 pursuing a double major in Computer Science and Mathematics with a minor in Chemistry. I have been studying computer science since my sophomore year in high school, and am extremely comfortable coding in C++, Python, and Java. When I'm not in class, I work on developing machine learning algorithms for facial recognition and StarCraft II. I am also currently working on developing a remote grading server for a MATLAB course that will be capable of grading 300+ concurrent submissions, generating detailed reports, and be user-friendly for freshman students who are not familiar with programming.
 
 I also work as a teaching assistant for Computing for Engineers and as a tutor for Calculus I-III.
 
